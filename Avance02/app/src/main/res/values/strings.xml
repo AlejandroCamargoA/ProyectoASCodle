@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Avance02</string>
+
+    <string-array name="Codles">
+        <item>C++</item>
+        <item>C#</item>
+        <item>C</item>
+    </string-array>
+</resources>
